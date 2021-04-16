@@ -1,0 +1,16 @@
+{
+  "name": "zuri-fs-task",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Yetunde Ige",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
